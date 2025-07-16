@@ -10,5 +10,7 @@ Data Pipeline:
 
 
 --Collected multi-region e-commerce data (Canada & US) and built an automated pipeline using Azure Data Factory for data extraction and Databricks (PySpark) for cleaning and validation. 
+
 --stored transformed data in Azure Data Lake and loaded it into Azure SQL for structured querying. 
+
 --Created interactive Power BI dashboards to analyze product sales, regional trends, and category Performance, helping reduce business decision-making time by 50%.
